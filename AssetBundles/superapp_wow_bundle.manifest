@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4199739681
+CRC: 949538722
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a10296905f0446b4e359a32cadfa5404
+    Hash: c741da9768cf79fd6f33f899a388dd73
   TypeTreeHash:
     serializedVersion: 2
-    Hash: dc941aa7134bbf895cba1dd767a5320c
+    Hash: 931f0f1b24ef3c9c328de15a1254dede
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a10296905f0446b4e359a32cadfa5404
+    Hash: c741da9768cf79fd6f33f899a388dd73
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,8 +21,6 @@ ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 - Class: 48
-  Script: {instanceID: 0}
-- Class: 49
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: c0aa4067c1064166b9da51799e5e5b7a, type: 3}
@@ -60,7 +58,7 @@ Assets:
 - Assets/_WordGame/_Scriptables/Levels/Level008.asset
 - Assets/_WordGame/_Scriptables/Levels/Level011.asset
 - Assets/_WordGame/_Scriptables/Levels/Level004.asset
-- Assets/_WordGame/AssetBundleRawData.csv
+- Assets/_WordGame/_Art/Sprites/FontAtlas 1.png
 - Assets/_WordGame/_Scriptables/Levels/Level010.asset
 - Assets/_WordGame/_Scriptables/Levels/Level002.asset
 - Assets/_WordGame/_Prefabs/Resources/Gammate_WordGame/Wheel.prefab
