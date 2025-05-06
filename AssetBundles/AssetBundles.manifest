@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2095655825
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: superapp_wow_bundle
+      Dependencies: {}

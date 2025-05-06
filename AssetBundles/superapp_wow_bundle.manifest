@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 3703445010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e06b784b873df63be336672b3a0b830e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 931f0f1b24ef3c9c328de15a1254dede
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e06b784b873df63be336672b3a0b830e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c0aa4067c1064166b9da51799e5e5b7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 46ac8fd19b78437b80d5429b0bdab3e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4fbe9f50f40148cd8624ffbe3d4851f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 430a7bdadf43747658e15369a6ab2ea7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4461e1f423a0540758e2e3fd5ececbf5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Gammate_WordGame_.PuzzleLayout
+- AssemblyName: Assembly-CSharp
+  ClassName: Gammate_WordGame_.WordData
+Assets:
+- Assets/_WordGame/_Scriptables/Levels/Level003.asset
+- Assets/_WordGame/_Scriptables/GameConfig.asset
+- Assets/_WordGame/_Scriptables/Levels/Level007.asset
+- Assets/_WordGame/_Scriptables/Levels/Level001.asset
+- Assets/_WordGame/_Scriptables/Levels/Level005.asset
+- Assets/_WordGame/_Scriptables/Levels/Level009.asset
+- Assets/_WordGame/_Scriptables/Levels/Level006.asset
+- Assets/_WordGame/_Prefabs/Resources/Gammate_WordGame/LetterPrefab.prefab
+- Assets/_WordGame/_Prefabs/Resources/Gammate_WordGame/LetterBox.prefab
+- Assets/_WordGame/_Scriptables/Levels/Level008.asset
+- Assets/_WordGame/_Scriptables/Levels/Level011.asset
+- Assets/_WordGame/_Scriptables/Levels/Level004.asset
+- Assets/_WordGame/_Scriptables/Levels/Level010.asset
+- Assets/_WordGame/_Scriptables/Levels/Level002.asset
+- Assets/_WordGame/_Prefabs/Resources/Gammate_WordGame/Wheel.prefab
+Dependencies: []
