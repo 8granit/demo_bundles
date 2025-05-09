@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3623923227
+CRC: 4158564358
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 43cf8afc152c2918e501924dfdf4da19
+    Hash: 52cf3d251da641ec743505f31e1df31e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 57a3595d2eecf8a7fe72738ab58c706e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 43cf8afc152c2918e501924dfdf4da19
+    Hash: 52cf3d251da641ec743505f31e1df31e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -143,7 +143,7 @@ Assets:
 - Assets/_LuckyStack/Editor/Models/_Magnetic_Center.fbx
 - Assets/_LuckyStack/Editor/Prefabs/ToastText.prefab
 - Assets/_LuckyStack/Editor/Models/_Dice.fbx
-- Assets/_LuckyStack/Editor/Models/Block.prefab
+- Assets/_LuckyStack/Editor/Models/_Block.prefab
 - Assets/_LuckyStack/Editor/Textures/fire.png
 - Assets/_LuckyStack/Editor/Materials/White.mat
 - Assets/_LuckyStack/Editor/Others/Block_Switch_Sound.wav
@@ -155,13 +155,13 @@ Assets:
 - Assets/_LuckyStack/Editor/Models/_Case.fbx
 - Assets/_LuckyStack/Editor/Materials/Lock_Mat.mat
 - Assets/_LuckyStack/Editor/Materials/Case_Mat_02.mat
-- Assets/_LuckyStack/Editor/Models/Trail_Particle.prefab
+- Assets/_LuckyStack/Editor/Models/_Trail_Particle.prefab
 - Assets/_LuckyStack/Editor/Scriptables/Levels/Level005.asset
 - Assets/_LuckyStack/Editor/Scriptables/Levels/Level017.asset
 - Assets/_LuckyStack/Editor/Textures/Block_Texture_Yellow.png
 - Assets/_LuckyStack/Editor/Prefabs/SmokeParticle.prefab
 - Assets/_LuckyStack/Editor/Materials/Case_Mat_01.mat
-- Assets/_LuckyStack/Editor/Models/Tile.prefab
+- Assets/_LuckyStack/Editor/Models/_Tile.prefab
 - Assets/_LuckyStack/Editor/Materials/Tile_Mat.mat
 - Assets/_LuckyStack/Editor/Scriptables/Levels/Level004.asset
 - Assets/_LuckyStack/Editor/Textures/Icon_Target_Dasda.png
@@ -178,9 +178,9 @@ Assets:
 - Assets/_LuckyStack/Editor/Prefabs/ScoreText.prefab
 - Assets/_LuckyStack/Editor/Materials/Purple_01.mat
 - Assets/_LuckyStack/Editor/Materials/Magnet_Mat_04.mat
-- Assets/_LuckyStack/Editor/Models/WoodenTile.prefab
+- Assets/_LuckyStack/Editor/Models/_WoodenTile.prefab
 - Assets/_LuckyStack/Editor/Materials/Hammer_Mat.mat
-- Assets/_LuckyStack/Editor/Models/Dice.prefab
+- Assets/_LuckyStack/Editor/Models/_Dice2.prefab
 - Assets/_LuckyStack/Editor/Others/Block_Slide_Sound.wav
 - Assets/_LuckyStack/Editor/Scriptables/Levels/Level016.asset
 - Assets/_LuckyStack/Editor/Others/Block_Pickup_Sound.wav
@@ -232,10 +232,10 @@ Assets:
 - Assets/_LuckyStack/Editor/Prefabs/Block_Slide.prefab
 - Assets/_LuckyStack/Editor/Scriptables/Levels/Level010.asset
 - Assets/_LuckyStack/Editor/Others/Rolling_Dice_Sound.wav
-- Assets/_LuckyStack/Editor/Models/Magnet_Particle_02.prefab
+- Assets/_LuckyStack/Editor/Models/_Magnet_Particle_02.prefab
 - Assets/_LuckyStack/Editor/Scriptables/Levels/Level026.asset
 - Assets/_LuckyStack/Editor/Prefabs/MagnetParent.prefab
-- Assets/_LuckyStack/Editor/Models/Case.prefab
+- Assets/_LuckyStack/Editor/Models/_Case.prefab
 - Assets/_LuckyStack/Editor/Prefabs/Dice.prefab
 - Assets/_LuckyStack/Editor/Scriptables/Levels/Level011.asset
 - Assets/_LuckyStack/Editor/Materials/Green_01.mat
@@ -243,7 +243,7 @@ Assets:
 - Assets/_LuckyStack/Editor/Prefabs/HammerSmoke.prefab
 - Assets/_LuckyStack/Editor/Scriptables/Levels/Level019.asset
 - Assets/_LuckyStack/Editor/Scriptables/Levels/Level030.asset
-- Assets/_LuckyStack/Editor/Models/Magnet.prefab
+- Assets/_LuckyStack/Editor/Models/_Magnet.prefab
 - Assets/_LuckyStack/Editor/Scriptables/Levels/Level001.asset
 - Assets/_LuckyStack/Editor/Models/_Hammer.fbx
 - Assets/_LuckyStack/Editor/Scriptables/Levels/Level022.asset
