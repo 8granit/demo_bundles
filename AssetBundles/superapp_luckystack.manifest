@@ -1,0 +1,252 @@
+ManifestFileVersion: 0
+CRC: 3623923227
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43cf8afc152c2918e501924dfdf4da19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57a3595d2eecf8a7fe72738ab58c706e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 43cf8afc152c2918e501924dfdf4da19
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ec07464e66b64186bf8a9e9b8d75f25, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e5b9dc53e5eb84cb8b44e7e534fbf092, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8db3aa59c2fa4529ab6300756a33498f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4336354924cd4520b444d435af2c3164, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ee393a9354a4429ac312d9094870e5a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ddad6f74eb15431aaac54d3d5dfb5cd0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d335a6524ce3f43bda8ee80d76550249, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d75213d441824f13b100937c8108dbc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: baca36473dd343108f1b6f24a0f64328, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae58ddd73d70e46ac84303584e9b527f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5416f4f9f3b14e88a2c313453e850e84, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f8f0a3e1d63f4cc4bd608942cb8188e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 55259ef6558a4f97ae2a93f8bf2a0a91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2cc32543f4844f6085cb3639f8eefe91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0b7275ff25945cd82dfd19791383490, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4654b6a65222434784b155b76c32d7ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b2420e72808674be8b5734f629f5aef4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1156bfee0f5471587b3c6faef409690, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Gammate_LuckyStack_.Case
+- AssemblyName: Assembly-CSharp
+  ClassName: Gammate_LuckyStack_.Dice
+- AssemblyName: Assembly-CSharp
+  ClassName: Gammate_LuckyStack_.Lane
+- AssemblyName: Assembly-CSharp
+  ClassName: Gammate_LuckyStack_.Tile
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/_LuckyStack/Editor/Scriptables/DiceConfig.asset
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level027.asset
+- Assets/_LuckyStack/Editor/Materials/Trail_Mat.mat
+- Assets/_LuckyStack/Editor/Materials/White_01.mat
+- Assets/_LuckyStack/Editor/Models/_Slot.fbx
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level024.asset
+- Assets/_LuckyStack/Editor/Materials/Pink.mat
+- Assets/_LuckyStack/Editor/Models/_BrokenSlot.fbx
+- Assets/_LuckyStack/Editor/Materials/Blue_01.mat
+- Assets/_LuckyStack/Editor/Prefabs/Arrow.prefab
+- Assets/_LuckyStack/Editor/Models/_Magnetic_Center.fbx
+- Assets/_LuckyStack/Editor/Prefabs/ToastText.prefab
+- Assets/_LuckyStack/Editor/Models/_Dice.fbx
+- Assets/_LuckyStack/Editor/Models/Block.prefab
+- Assets/_LuckyStack/Editor/Textures/fire.png
+- Assets/_LuckyStack/Editor/Materials/White.mat
+- Assets/_LuckyStack/Editor/Others/Block_Switch_Sound.wav
+- Assets/_LuckyStack/Editor/Materials/Black.mat
+- Assets/_LuckyStack/Editor/Textures/Block_Texture_Red.png
+- Assets/_LuckyStack/Editor/Textures/Tile_Texture.png
+- Assets/_LuckyStack/Editor/Materials/Black_01.mat
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level002.asset
+- Assets/_LuckyStack/Editor/Models/_Case.fbx
+- Assets/_LuckyStack/Editor/Materials/Lock_Mat.mat
+- Assets/_LuckyStack/Editor/Materials/Case_Mat_02.mat
+- Assets/_LuckyStack/Editor/Models/Trail_Particle.prefab
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level005.asset
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level017.asset
+- Assets/_LuckyStack/Editor/Textures/Block_Texture_Yellow.png
+- Assets/_LuckyStack/Editor/Prefabs/SmokeParticle.prefab
+- Assets/_LuckyStack/Editor/Materials/Case_Mat_01.mat
+- Assets/_LuckyStack/Editor/Models/Tile.prefab
+- Assets/_LuckyStack/Editor/Materials/Tile_Mat.mat
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level004.asset
+- Assets/_LuckyStack/Editor/Textures/Icon_Target_Dasda.png
+- Assets/_LuckyStack/Editor/Materials/Blue.mat
+- Assets/_LuckyStack/Editor/Materials/Purple.mat
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level009.asset
+- Assets/_LuckyStack/Editor/Prefabs/Case.prefab
+- Assets/_LuckyStack/Editor/Prefabs/Icon.prefab
+- Assets/_LuckyStack/Editor/Prefabs/Dice_Rolling.prefab
+- Assets/_LuckyStack/Editor/Textures/Dice_Texture_02.png
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level029.asset
+- Assets/_LuckyStack/Editor/Textures/MagnetParticle_Texture_03.png
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level028.asset
+- Assets/_LuckyStack/Editor/Prefabs/ScoreText.prefab
+- Assets/_LuckyStack/Editor/Materials/Purple_01.mat
+- Assets/_LuckyStack/Editor/Materials/Magnet_Mat_04.mat
+- Assets/_LuckyStack/Editor/Models/WoodenTile.prefab
+- Assets/_LuckyStack/Editor/Materials/Hammer_Mat.mat
+- Assets/_LuckyStack/Editor/Models/Dice.prefab
+- Assets/_LuckyStack/Editor/Others/Block_Slide_Sound.wav
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level016.asset
+- Assets/_LuckyStack/Editor/Others/Block_Pickup_Sound.wav
+- Assets/_LuckyStack/Editor/Animation/Arrow.controller
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level021.asset
+- Assets/_LuckyStack/Editor/Textures/MagnetParticle_Texture_04.png
+- Assets/_LuckyStack/Editor/Prefabs/Block.prefab
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level003.asset
+- Assets/_LuckyStack/Editor/Textures/Magnet_Texture.png
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level018.asset
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level007.asset
+- Assets/_LuckyStack/Editor/Prefabs/Tile.prefab
+- Assets/_LuckyStack/Editor/Textures/Block_Texture_Black.png
+- Assets/_LuckyStack/Editor/Materials/Green.mat
+- Assets/_LuckyStack/Editor/Prefabs/Block_Collect.prefab
+- Assets/_LuckyStack/Editor/Materials/Red.mat
+- Assets/_LuckyStack/Editor/Textures/Hammer_Texture.png
+- Assets/_LuckyStack/Editor/Textures/Wood_Texture.png
+- Assets/_LuckyStack/Editor/Prefabs/ShineParticle.prefab
+- Assets/_LuckyStack/Editor/Scriptables/LevelSetConfig.asset
+- Assets/_LuckyStack/Editor/Animation/Arrow.anim
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level013.asset
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level008.asset
+- Assets/_LuckyStack/Editor/Materials/Red_01.mat
+- Assets/_LuckyStack/Editor/Materials/Yellow_01.mat
+- Assets/_LuckyStack/Editor/Scriptables/GameConfig.asset
+- Assets/_LuckyStack/Editor/Prefabs/Dice_Switch.prefab
+- Assets/_LuckyStack/Editor/Textures/Block_Texture_Green.png
+- Assets/_LuckyStack/Editor/Materials/Magnet_Mat_03.mat
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level023.asset
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level012.asset
+- Assets/_LuckyStack/Editor/Textures/Block_Texture_Pink.png
+- Assets/_LuckyStack/Editor/Textures/Dice_Texture.png
+- Assets/_LuckyStack/Editor/Materials/Wood_Mat.mat
+- Assets/_LuckyStack/Editor/Textures/Arrow_Texture.png
+- Assets/_LuckyStack/Editor/Materials/Magnet_Mat.mat
+- Assets/_LuckyStack/Editor/Materials/Yellow.mat
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level025.asset
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level006.asset
+- Assets/_LuckyStack/Editor/Textures/Indicator.png
+- Assets/_LuckyStack/Editor/Textures/Block_Texture_Purple.png
+- Assets/_LuckyStack/Editor/Textures/LockIcon.png
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level014.asset
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level020.asset
+- Assets/_LuckyStack/Editor/Prefabs/Hammer.prefab
+- Assets/_LuckyStack/Editor/Textures/Block_Texture_Blue.png
+- Assets/_LuckyStack/Editor/Materials/Pink_01.mat
+- Assets/_LuckyStack/Editor/Models/_Arrow.fbx
+- Assets/_LuckyStack/Editor/Prefabs/Block_Slide.prefab
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level010.asset
+- Assets/_LuckyStack/Editor/Others/Rolling_Dice_Sound.wav
+- Assets/_LuckyStack/Editor/Models/Magnet_Particle_02.prefab
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level026.asset
+- Assets/_LuckyStack/Editor/Prefabs/MagnetParent.prefab
+- Assets/_LuckyStack/Editor/Models/Case.prefab
+- Assets/_LuckyStack/Editor/Prefabs/Dice.prefab
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level011.asset
+- Assets/_LuckyStack/Editor/Materials/Green_01.mat
+- Assets/_LuckyStack/Editor/Materials/Arrow_Mat.mat
+- Assets/_LuckyStack/Editor/Prefabs/HammerSmoke.prefab
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level019.asset
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level030.asset
+- Assets/_LuckyStack/Editor/Models/Magnet.prefab
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level001.asset
+- Assets/_LuckyStack/Editor/Models/_Hammer.fbx
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level022.asset
+- Assets/_LuckyStack/Editor/Prefabs/FeedbackText.prefab
+- Assets/_LuckyStack/Editor/Scriptables/Levels/Level015.asset
+Dependencies: []
